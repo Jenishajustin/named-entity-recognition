@@ -1,4 +1,4 @@
-# Named Entity Recognition
+# EX : 06 Named Entity Recognition
 
 ## AIM
 
