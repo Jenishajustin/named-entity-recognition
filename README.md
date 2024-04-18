@@ -6,7 +6,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 The aim is to develop a Bidirectional LSTM-based RNN model to identify specific items in text by vectorizing phrases using embedding techniques.
-![Screenshot 2024-04-17 143151](https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/dd172e64-0bc6-49ca-84db-2cae786ab353)
+<img src="https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/dd172e64-0bc6-49ca-84db-2cae786ab353" height=450 width=450>
 
 
 ## DESIGN STEPS
@@ -142,14 +142,14 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-04-17 143746](https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/f79f1de7-421f-4819-9171-a8305611c9dc)
+<img src="https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/f79f1de7-421f-4819-9171-a8305611c9dc" height=450 width=450>
 
 ### Training accuracy, Validation accuracy Vs Iteration Plot
-![Screenshot 2024-04-17 143630](https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/1ad58484-7563-4669-93dc-5ca58bcbb302)
+<img src="https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/1ad58484-7563-4669-93dc-5ca58bcbb302" height=450 width=450>
 
 
 ### Sample Text Prediction
-![Screenshot 2024-04-17 143851](https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/75ef8733-19fe-4598-b266-de848b0fb9aa)
+<img src="https://github.com/Jenishajustin/named-entity-recognition/assets/119405070/75ef8733-19fe-4598-b266-de848b0fb9aa" height=550 width=450>
 
 
 ## RESULT
